@@ -1,4 +1,4 @@
-﻿opic: Regular expressions
+T﻿opic: Regular expressions
 Course: Formal Languages & Finite Automata
 Author: Elena Romașenco
 Theory:
